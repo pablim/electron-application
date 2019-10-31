@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "electron": "^7.0.0"
+    "electron": "^7.0.0",
+    "jsonfile-promised": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {
